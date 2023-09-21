@@ -1,5 +1,15 @@
-USDT(BEP20) wallet address
-0x951396dDFBCAC9845086A5042a72da7B9f5D2200
-
 -Payoneer address
 jspmanager0506@outlook.com
+
+USDT wallet address with various network
+-Binance: BEP20
+0x951396dDFBCAC9845086A5042a72da7B9f5D2200
+
+- TRX: Tron (TRC20)
+TLEB2hqKh3ujzcph7H9RuX72YxqfD3Vzy1
+
+- MATIC: Polygon
+0x33f14ccd8b476f329b1ed121524cfa0747b7f01b
+
+- SOL: Solana
+3xAPJKZhcx5p1k3Ba42ddaHfLeMFSkhTATNbZ6a3Rfjz
